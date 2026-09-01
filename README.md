@@ -338,7 +338,3 @@ A rough progression if you want a roadmap rather than doing everything at once:
 - [ ] Periodically run `docker compose pull && docker compose up -d` in each service folder to update images
 - [ ] Disable key expiry for trusted always-on devices in Tailscale, or renew WireGuard keys as needed
 - [ ] Monitor disk space on your media/data drives
-
----
-
-*Guide compiled for an internal presentation on home server basics. Core setup approach based on the workflow shown in [Kalos Likes Computers' home server video](https://www.youtube.com/watch?v=IuRWqzfX1ik). Technology icons courtesy of [selfh.st/icons](https://selfh.st/icons).*
